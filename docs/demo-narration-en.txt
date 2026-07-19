@@ -1,0 +1,17 @@
+Life is already difficult. Yet most social networks add more argument, comparison, performance, and pressure. At the same time, many of us still want to share a meal, a view, or one sentence from the day, without broadcasting it to the whole world.
+
+Tongchen, meaning living within the same human world, is a quiet social space for sharing without pressure. The product loop is simple: understand, deliver, and receive.
+
+The experience is fully bilingual. Instead of asking people to complete a personality test, Tongchen lets them speak naturally. A creator writes a small moment and chooses how it should be received: quietly, through a similar feeling, with a gentle response, or with no reply at all.
+
+The server integration uses the OpenAI Responses API with GPT-5.6 Terra. It turns free-form text into a structured, explainable interpretation of sharing intent, present feeling, and response boundary. The result is shown before publishing, and the user always has the final decision. In this recorded public environment, the interface transparently labels the no-key demo fallback rather than pretending a model call occurred.
+
+Delivery begins with boundary compatibility, not engagement probability. Each moment reaches only a small number of suitable people, and every card explains why it arrived and how the creator hopes to be received. Interaction starts with “I see you,” not public judgement or popularity metrics.
+
+Tongchen also preserves difference. Shared ground creates safety, while a gentle difference creates discovery. We explain both, but never display a compatibility score or pressure people to form a relationship.
+
+Personal understanding changes over time. Every interpretation is private, editable, pausable, and temporary. Safety protections slow down unfamiliar accounts and stop requests for location, contact details, or money before private context is exposed.
+
+Codex helped transform the original insight into this complete product loop, implement the responsive bilingual interface, audit translations, integrate GPT-5.6, verify builds, deploy the prototype, and prepare the hackathon submission.
+
+Tongchen does not optimise for more time online. It asks a different question: was this moment received in the way its creator hoped? Share a little of life, without facing the whole world.
